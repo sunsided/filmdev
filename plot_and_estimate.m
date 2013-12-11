@@ -164,7 +164,7 @@ function [results, meanalpha, developers] = plot_and_estimate(filmname, data)
 
             % Create legend entry for the regression
             %regression_label = sprintf('t_{\theta=%d}(\alpha) = \alpha^{%f} * 10^{%f}', dilution, m, b);
-            regression_label = ['t_{' num2str(dilution) '}(\alpha) = \alpha^{' num2str(m) ' } * 10^{' num2str(b) '}'];
+            regression_label = ['t_{' num2str(dilution) '}(asa) = asa^{' num2str(m) ' } * 10^{' num2str(b) '}'];
 
             if ~figure_created
 
