@@ -227,8 +227,8 @@ function [results, meanalpha, developers] = plot_and_estimate(filmname, data)
         title([plottitle ' (log-log)']);
         legend(labels, 'Location', 'SouthEast');
         %grid minor; grid on;
-        xlabel('\alpha = Empfindlichkeit [ASA]');
-        ylabel('\theta = Entwicklungszeit [Minuten]');
+        xlabel('\alpha = Sensitivity [ASA]');
+        ylabel('t = Development time [minutes]');
 
     end % Developer
 
