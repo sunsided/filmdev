@@ -1,6 +1,6 @@
 %% Set Film/Developer Data
 lucky_data = { 
-%   Name                 1+n      ASA     Zeit   Temp
+%   Name                 1+n      ASA     Time   Temperature
     'HC-110',             49      100,     13,     20;
     'ID-11/D-76',          1      100,     6,      20;
     'ID-11/D-76',          1      100,     7,      20;
