@@ -8,6 +8,12 @@ Using given temperature and sensitivities, this script approximates the function
 
     time(sensitivity) = sensitivity^alpha + 10^beta 
 
+## Example
+
+An example result of Tri-X 400 in Xtol. The algorithm determined `t(asa) = asa^0.20537 + 10^0.44103` for `Xtol 1+1`, which results in a development time of 6:10 for 400 ASA target sensitivity, 6:42 for 800 ASA etc.
+
+![Example Screenshot](https://raw.github.com/sunsided/master/filmdev/example.png)
+
 ## License
 
 Copyright &copy; 2013-2014 Markus Mayer
