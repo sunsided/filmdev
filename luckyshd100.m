@@ -33,15 +33,5 @@ lucky_data = {
     'Rodinal',            25      800,     16.0     20; % Lucky 400 - adapted
 };
 
-%{
-lucky_stand = {
-     'Agfa Rodinal',        100,       50,      60,     20;
-     'Spürsinn HCD',         15       100,       8.0,   20;
-     'Spürsinn HCD',         25       800,      30.5,   20;
-     'Agfa Rodinal',        100       100,      50,     20;         % error! http://filmdev.org/recipe/show/5417
-     'Agfa Rodinal',        200        50,     120,     20;
-     };
-%}
-
 %% Calculate Estimate
 [results, meanalpha, developers] = plot_and_estimate('Lucky SHD 100', lucky_data)
