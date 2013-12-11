@@ -1,6 +1,6 @@
 %% Set Film/Developer Data
 trix400_stand_data = {
-%   Name            1+n      ASA     Zeit   Temp      
+%   Name            1+n      ASA     Time   Temperature
     'Rodinal'       50       1600    18.5    20; % http://kzar.net/wiki/Photo/D%E9veloppement
     'Rodinal'       50       3200    33      20;
     'Rodinal'       50       12800   51      20;

@@ -1,5 +1,6 @@
 %% Set Film/Developer Data
 lucky_stand_data = {
+%   Name                    1+n      ASA     Time       Temperature
      'Agfa Rodinal',        100,       50,      60,     20;
      'Sp?rsinn HCD',         15       100,       8.0,   20;
      'Sp?rsinn HCD',         25       800,      30.5,   20;

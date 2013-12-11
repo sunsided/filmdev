@@ -1,6 +1,6 @@
 %% Set Film/Developer Data
 trix400_data = {
-%   Name            1+n      ASA     Zeit   Temp
+%   Name                 1+n      ASA     Time   Temperature
     %'Rodinal'       50       1600    20      20; % FilmDev
     'Rodinal'       25       320    6.75      20; % FilmDev
     'Rodinal'       50       400     7      20; % FilmDev
